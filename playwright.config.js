@@ -53,6 +53,8 @@ module.exports = defineConfig({
 
      // Run browser in headless mode.
      headless: false,
+
+  
   },
 
 
